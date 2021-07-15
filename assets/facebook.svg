@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="facebook.svg"
+   id="svg64"
+   height="56"
+   width="56"
+   viewBox="0 0 640 640"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1">
+  <metadata
+     id="metadata68">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg64"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="51"
+     inkscape:cy="9.2118959"
+     inkscape:cx="7.4423792"
+     inkscape:zoom="9.6071429"
+     showgrid="false"
+     id="namedview66"
+     inkscape:window-height="657"
+     inkscape:window-width="1156"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs42">
+    <path
+       id="fGcg2Ftiv"
+       d="M80 0C35.88 0 0 35.88 0 80C0 128 0 512 0 560C0 604.12 35.88 640 80 640C128 640 512 640 560 640C604.12 640 640 604.12 640 560C640 512 640 128 640 80C640 35.88 604.12 0 560 0C464 0 128 0 80 0Z" />
+    <path
+       id="a8GdWqW7FP"
+       d="M440 320C440 272 440 245.33 440 240C440 217.92 457.92 220 480 220C482.67 220 496 220 520 220L520 120L440 120C440 120 440 120 440 120C373.72 120 320 173.72 320 240C320 245.33 320 272 320 320L240 320L240 420L320 420L320 640L440 640L440 420L500 420L540 320L440 320Z" />
+  </defs>
+  <g
+     id="g62">
+    <g
+       id="g60">
+      <g
+         id="g50">
+        <use
+           id="use44"
+           fill-opacity="1"
+           fill="#1976d2"
+           opacity="1"
+           xlink:href="#fGcg2Ftiv" />
+        <g
+           id="g48">
+          <use
+             id="use46"
+             stroke-opacity="0"
+             stroke-width="1"
+             stroke="#000000"
+             fill-opacity="0"
+             opacity="1"
+             xlink:href="#fGcg2Ftiv" />
+        </g>
+      </g>
+      <g
+         id="g58">
+        <use
+           id="use52"
+           fill-opacity="1"
+           fill="#fafafa"
+           opacity="1"
+           xlink:href="#a8GdWqW7FP" />
+        <g
+           id="g56">
+          <use
+             id="use54"
+             stroke-opacity="0"
+             stroke-width="1"
+             stroke="#000000"
+             fill-opacity="0"
+             opacity="1"
+             xlink:href="#a8GdWqW7FP" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
