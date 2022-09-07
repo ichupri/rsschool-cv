@@ -45,6 +45,16 @@ JavaScript/Front-end. Stage 0 \
 
 - - - - - - - - - - 
 
+##### Code example #####
 
+function calc(x){ \
+  const sum = (arr) => arr.reduce((acc, val) => Number(acc) + Number(val)) \
+  const total1 = [...x] \
+    .map((val) => val.charCodeAt()) \
+    .join('') \
+    .split('') \
+  const total2 = total1.map((val) => (val === '7' ? '1' : val)) \
+  return sum(total1) - sum(total2) \
+}
 
-
+- - - - - - - - - - 
