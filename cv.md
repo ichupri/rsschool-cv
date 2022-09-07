@@ -5,7 +5,8 @@
 ichupria@gmail.com \
 telegram: @ichupri \
 discord: @ichupri \
-+375445553434 
++375445553434 \
++79051001022
 
 - - - - - - - - - - 
 
